@@ -2,4 +2,4 @@
 
 Hi, I'm Orazbek Azatoff,<br/> I live in Karakalpakstan and study <br/> frontend-developer course at "Technopos-IT-acedemy" in Nukus
 
-<a href="https://t.me/Azatoff_dev"></a>
+<a href="https://t.me/Azatoff_dev">learen more</a>
