@@ -1,2 +1,2 @@
-### Hi, i am Orazbek Azatoff <img src="https://media0.giphy.com/media/inKwJypQUxuE4To06e/giphy.gif?cid=ecf05e4796t3bl1xozy1r1tsftr603npf5abprlmxewl7a9t&rid=giphy.gif&ct=s"/> 
+### Hi, i am Orazbek Azatoff <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjM2OTMwMmNjMWRlZGNmNjk0ODM4OGU4ZjliYWE4NTY1MjAwODQ1ZCZjdD1n/Ztfno2Qtm2dVxS81f5/giphy.gif" width:50px;/> 
 
