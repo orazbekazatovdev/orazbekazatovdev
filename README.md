@@ -4,4 +4,6 @@ Hi, I'm Orazbek Azatoff,<br/> I live in Karakalpakstan and study <br/> frontend-
 
 <a href="https://t.me/Azatoff_dev">
 <img src="https://static.vecteezy.com/system/resources/previews/018/930/708/original/telegram-logo-telegram-icon-transparent-free-png.png" width="50px"
+     telgram
 </a>
+  
