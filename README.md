@@ -3,5 +3,5 @@
 Hi, I'm Orazbek Azatoff,<br/> I live in Karakalpakstan and study <br/> frontend-developer course at "Technopos-IT-acedemy" in Nukus
 
 <a href="https://t.me/Azatoff_dev">
-<img src="https://www.cleanpng.com/free/telegram-logo.html" width="50px"
+<img src="https://static.vecteezy.com/system/resources/previews/018/930/708/original/telegram-logo-telegram-icon-transparent-free-png.png" width="50px"
 </a>
